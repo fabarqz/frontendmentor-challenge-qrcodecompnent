@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://fabarqz.github.io/frontendmentor-challenge-qrcodecompnent/]
 ## My process
 
 - Start with identifying the biggest parts that make up the website. In this case, the website is comprised of a section containing a qr image and some text within that is centered right at the middles. An additional div was added in the starting html containing attributions.
